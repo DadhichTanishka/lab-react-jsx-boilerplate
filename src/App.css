@@ -1,1 +1,13 @@
 /* add your styles here */
+h2{
+    text-align: center;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+img{
+    width: 45vw;
+    margin: 2%;
+}
